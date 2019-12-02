@@ -1,0 +1,8 @@
+/log
+/tmp
+creds.py
+/temp
+/tmpcontent
+*.pyc
+*.tgz
+
